@@ -71,6 +71,12 @@ I'm passionate about building real-world applications, exploring Machine Learnin
 ---
 [![](https://komarev.com/ghpvc/?username=suman9834&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 Achievements & Badges
+
+![GitHub followers](https://img.shields.io/github/followers/suman9834?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/suman9834?style=for-the-badge&logo=github)
+![GitHub repos](https://img.shields.io/badge/Repositories-Active-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=suman9834&style=for-the-badge)
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
